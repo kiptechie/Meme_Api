@@ -1,4 +1,4 @@
-FROM golang:1.17
+FROM golang:1.19.11
 
 WORKDIR /go/src/github.com/R3l3ntl3ss/Meme_Api
 
